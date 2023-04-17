@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Timefighter</string>
+    <string name="tap_me">Tap me!</string>
+    <string name="your_score">Your Score: %1$d</string>
+    <string name="time_left">Time left: %1$d</string>
+    <string name="game_over_message">Time\'s up! Your score was:%1$d</string>
+    <string name="your_core_1_d">your core: %1$d</string>
+    <string name="time_left_1_d">time left: %1$d</string>
+    <string name="info" >information</string>
+    <string name="your_version_1_d"> App Version: %1$s</string>
+    <string name="about_item">this app is developed by Bilal Berek</string>
+
+</resources>

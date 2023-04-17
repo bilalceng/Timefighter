@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Timefighter" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#403C3C</item>
+        <item name="colorPrimaryVariant">#403C3C</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/btnColor</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#403C3C</item>
+        <!-- Customize your theme here. -->
+        <item name="android:itemTextAppearance">@style/changetextcolor</item>
+        <item name="android:itemBackground">@color/black</item>
+
+
+    </style>
+    
+    <style name="changetextcolor" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">20sp</item>
+
+    </style>
+</resources>
